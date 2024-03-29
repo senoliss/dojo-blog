@@ -8,37 +8,11 @@ https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRi
 Hey gang, in this complete modern React tutorial we'll learn about React from the ground up - setup, JSX templates, components & events. We'll cover state & the use of hooks, the React Router & also how to handle asynchronous code in components.
 
 🐱‍💻 🐱‍💻 Course Files:
-+ https://github.com/iamshaunjp/Complet...
-
-🐱‍👤🐱‍👤 JOIN THE GANG - 
-  
-
- / @netninja  
-
-🐱‍💻 🐱‍💻 My Udemy Courses:
-+ Modern JavaScript - https://www.thenetninja.co.uk/udemy/m...
-+ Vue JS  & Firebase - https://www.thenetninja.co.uk/udemy/v...
-+ D3.js & Firebase - https://www.thenetninja.co.uk/udemy/d...
++ https://github.com/iamshaunjp/Complete-React-Tutorial
 
 🐱‍💻 🐱‍💻 Helpful Links:
-+ HTML & CSS Course -   
-
- • HTML & CSS Crash Course Tutorial #1 -...  
-+ Modern JavaScript course -   
-
- • Modern JavaScript Tutorial #1 - Intro...  
-+ Get VS Code - https://code.visualstudio.com/
-
-🐱‍💻 🐱‍💻 Social Links:
-Facebook -  
-
- / thenetninjauk  
-Twitter -  
-
- / thenetninjauk  
-Instagram -  
-
- / thenetninja  
++ HTML & CSS Course - https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G&index=1&t=0s
++ Modern JavaScript course - https://www.youtube.com/watch?v=iWOYAxlnaww&list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc&index=1&t=0s
 
 
 
