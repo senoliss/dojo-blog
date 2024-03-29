@@ -1,3 +1,22 @@
+# This is the REACT.js course of Net Ninja
+
+The Dojo Blog to create and manage blogs with json server.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
