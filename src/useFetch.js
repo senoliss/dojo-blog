@@ -24,7 +24,7 @@ const useFetch = (url) => {
           }
           else if(!res.ok)
           {
-            throw Error('Could not connect to server (Status 400 http://localhost:8000/blogs)')
+            throw Error('Could not connect to server (Status 400 http://localhost:9000/blogs)')
           }
           return res.json();
         })
